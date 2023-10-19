@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Weather-of-World/static/css/main.48570388.css",
+    "main.js": "/Weather-of-World/static/js/main.12842b07.js",
+    "static/js/787.d9312eb8.chunk.js": "/Weather-of-World/static/js/787.d9312eb8.chunk.js",
+    "index.html": "/Weather-of-World/index.html",
+    "main.48570388.css.map": "/Weather-of-World/static/css/main.48570388.css.map",
+    "main.12842b07.js.map": "/Weather-of-World/static/js/main.12842b07.js.map",
+    "787.d9312eb8.chunk.js.map": "/Weather-of-World/static/js/787.d9312eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48570388.css",
+    "static/js/main.12842b07.js"
+  ]
+}
